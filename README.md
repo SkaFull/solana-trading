@@ -1,7 +1,7 @@
 # SOL 管理系统 (SOL Management System)
 
 <p align="right">
-  <a href="./README-en.md">🇺🇸 English</a> | <strong>🇨🇳 中文</strong>
+  <a href="./README-en.md">🇺🇸 English</a> | <a href="./README-zh-HK.md">HK 繁體中文</a> | <strong>🇨🇳 简体中文</strong>
 </p>
 
 基于 RuoYi-Vue 构建的全栈 **Solana 区块链自动化交易与综合管理平台**。
