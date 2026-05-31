@@ -1,7 +1,7 @@
 # SOL Management System
 
 <p align="right">
-  <strong>🇺🇸 English</strong> | <a href="./README.md">🇨🇳 中文</a>
+  <strong>🇺🇸 English</strong> | <a href="./README-zh-HK.md">HK 繁體中文</a> | <a href="./README.md">🇨🇳 中文</a>
 </p>
 
 A full-stack **Solana blockchain automated trading and comprehensive management platform** built on RuoYi-Vue.
